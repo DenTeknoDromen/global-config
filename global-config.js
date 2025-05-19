@@ -110,6 +110,3 @@ if (require.main === module) {
 module.exports = {
     getEnvironment
 }
-
-// todo
-// integrate with npm/server
